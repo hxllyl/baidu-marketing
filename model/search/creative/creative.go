@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/baidu-marketing/model"
+import "github.com/hxllyl/baidu-marketing/model"
 
 // Creative 推广创意
 type Creative struct {

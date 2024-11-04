@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
 // AddAdgroupAppBindRequest 添加APP绑定 API Request

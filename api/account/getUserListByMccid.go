@@ -3,9 +3,9 @@ package account
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/account"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/model/account"
 )
 
 // GetUserListByMccid 账户管家管理

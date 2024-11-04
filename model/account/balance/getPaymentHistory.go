@@ -1,8 +1,8 @@
 package balance
 
 import (
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
 // GetPaymentHistoryRequest 查询待加款信息

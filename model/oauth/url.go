@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
 // URLRequest 程序化拼接授权链接 API Request

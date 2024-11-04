@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bububa/baidu-marketing/core/internal/debug"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/core/internal/debug"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
 var (

@@ -3,9 +3,9 @@ package balance
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/account/balance"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/model/account/balance"
 )
 
 // GetPaymentHistory 查询待加款信息

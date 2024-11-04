@@ -3,8 +3,8 @@ package ocpc
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model"
 )
 
 // ActionCb APP转化数据收集

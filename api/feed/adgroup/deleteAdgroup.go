@@ -3,9 +3,9 @@ package adgroup
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/feed/adgroup"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/model/feed/adgroup"
 )
 
 // DeleteAdgroup 删除单元

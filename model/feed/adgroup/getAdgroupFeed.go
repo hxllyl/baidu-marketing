@@ -1,8 +1,8 @@
 package adgroup
 
 import (
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
 // GetAdgroupFeedRequest 查询推广单元 API Request

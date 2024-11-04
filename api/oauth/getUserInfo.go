@@ -3,8 +3,8 @@ package oauth
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model/oauth"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model/oauth"
 )
 
 // GetUserInfo 查询授权用户信息

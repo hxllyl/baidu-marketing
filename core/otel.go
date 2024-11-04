@@ -13,10 +13,10 @@ import (
 	semconv "go.opentelemetry.io/otel/semconv/v1.26.0"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/bububa/baidu-marketing/util"
+	"github.com/hxllyl/baidu-marketing/util"
 )
 
-const instrumentationName = "github.com/bububa/baidu-marketing"
+const instrumentationName = "github.com/hxllyl/baidu-marketing"
 
 type Otel struct {
 	traceProvider trace.TracerProvider

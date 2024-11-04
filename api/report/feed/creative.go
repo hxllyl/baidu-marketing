@@ -3,10 +3,10 @@ package feed
 import (
 	"context"
 
-	reportApi "github.com/bububa/baidu-marketing/api/report"
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/report"
+	reportApi "github.com/hxllyl/baidu-marketing/api/report"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model"
+	"github.com/hxllyl/baidu-marketing/model/report"
 )
 
 // Creative 创意报告

@@ -3,8 +3,8 @@ package oauth
 import (
 	"context"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model/oauth"
+	"github.com/hxllyl/baidu-marketing/core"
+	"github.com/hxllyl/baidu-marketing/model/oauth"
 )
 
 // AccessToken 换取授权令牌接口
