@@ -1,4 +1,4 @@
-module github.com/bububa/baidu-marketing
+module github.com/hxllyl/baidu-marketing
 
 go 1.21
 

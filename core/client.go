@@ -44,6 +44,8 @@ type SDKClient struct {
 // NewSDKClient init sdk client
 func NewSDKClient(appID string, secret string) *SDKClient {
 	return &SDKClient{
+		appID:      appID,
+		secret:     secret,
 		httpClient: defaultHttpClient(),
 	}
 }
